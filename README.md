@@ -1,0 +1,1 @@
+A group of data science students wanted to examine the weather patterns in the continental united states for changes in the frequency severity and location of severe weather events over the last 50 years.
